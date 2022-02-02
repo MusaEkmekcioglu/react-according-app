@@ -1,6 +1,5 @@
-#### Idea
-
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+#### react -according-app
+[click to see ](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
 
 ![](./idea.png);
 
@@ -8,9 +7,7 @@
 
 [react icons](https://react-icons.github.io/react-icons/)
 
-```
-npm install react-icons --save
-```
+
 
 ```javascript
 import { FaHome } from 'react-icons/fa';
