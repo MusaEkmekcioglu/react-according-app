@@ -5,7 +5,6 @@
 
 
 
-
 ```javascript
 import { FaHome } from 'react-icons/fa';
 const Component = () => {
