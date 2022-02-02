@@ -2,7 +2,7 @@
 ## [click to see ](https://react-musa-according.netlify.app/)
 
 
-
+![](./idea.png);
 
 
 ```javascript
